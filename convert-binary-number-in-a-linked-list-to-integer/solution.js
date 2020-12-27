@@ -16,6 +16,5 @@ var getDecimalValue = function (head) {
     if (!head.next) break
     head = head.next
   }
-  console.log(str, parseInt(str, 2))
   return parseInt(str, 2)
 }

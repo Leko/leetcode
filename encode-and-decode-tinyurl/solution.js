@@ -15,7 +15,7 @@ var encode = function (longUrl) {
  * @return {string}
  */
 var decode = function (shortUrl) {
-  return shortUrl.replace(`http://tinyurl.com/`, "")
+  return shortUrl.slice(`http://tinyurl.com/`.length)
 }
 
 /**
