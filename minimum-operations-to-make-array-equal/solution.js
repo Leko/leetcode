@@ -1,7 +1,1 @@
-/**
- * @param {number} n
- * @return {number}
- */
-var minOperations = function (n) {
-  return ~~(n / 2) * ~~(n / 2 + (n % 2))
-}
+const minOperations = (n) => ~~(n / 2) * ~~(n / 2 + (n % 2))
