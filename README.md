@@ -2,10 +2,17 @@
 <!--__GENERATED_START__-->
 
 
-Solved: 43 problems
+Solved: 50 problems
 
 | #    | problem                                                                                                                                     | category   | difficulty | runtime | memory  | solutions                                                                      |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------- | ------- | ------------------------------------------------------------------------------ |
+| 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                           | algorithms | medium     | 68 ms   | 38.5 MB | [javascript](climbing-stairs/solution.js)                                      |
+| 1013 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                                         | algorithms | medium     | 96 ms   | 38.7 MB | [javascript](fibonacci-number/solution.js)                                     |
+| 1682 | [Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)                           | algorithms | medium     | 100 ms  | 40.6 MB | [javascript](most-visited-sector-in-a-circular-track/solution.js)              |
+| 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                                   | algorithms | medium     | 92 ms   | 40.6 MB | [javascript](move-zeroes/solution.js)                                          |
+| 27   | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                             | algorithms | medium     | 80 ms   | 38.8 MB | [javascript](remove-element/solution.js)                                       |
+| 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                   | algorithms | medium     | 96 ms   | 40.7 MB | [javascript](remove-duplicates-from-sorted-array/solution.js)                  |
+| 941  | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)                                                                 | algorithms | medium     | 80 ms   | 41.8 MB | [javascript](sort-array-by-parity/solution.js)                                 |
 | 1674 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)                             | algorithms | easy       | 76 ms   | 39.3 MB | [javascript](minimum-operations-to-make-array-equal/solution.js)               |
 | 148  | [Sort List](https://leetcode.com/problems/sort-list/)                                                                                       | algorithms | easy       | 140 ms  | 57.5 MB | [javascript](sort-list/solution.js)                                            |
 | 861  | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                                                                       | algorithms | medium     | 92 ms   | 41 MB   | [javascript](flipping-an-image/solution.js)                                    |
