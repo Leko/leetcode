@@ -3,10 +3,14 @@
 <!--__GENERATED_START__-->
 
 
-Solved: 75 problems
+Solved: 79 problems
 
 | #    | problem                                                                                                                                     | category   | runtime | memory   | solutions                                                                                     |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------- | -------- | --------------------------------------------------------------------------------------------- |
+| 1817 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)                                         | algorithms | 96 ms   | 38.8 MB  | [javascript](solutions/1817.calculate-money-in-leetcode-bank/solution.js)                     |
+| 1319 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                 | algorithms | 104 ms  | 39.2 MB  | [javascript](solutions/1319.unique-number-of-occurrences/solution.js)                         |
+| 398  | [Random Pick Index](https://leetcode.com/problems/random-pick-index/)                                                                       | algorithms | 296 ms  | 76.3 MB  | [javascript](solutions/398.random-pick-index/solution.js)                                     |
+| 912  | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)                                                           | algorithms | 488 ms  | 48.3 MB  | [javascript](solutions/912.random-pick-with-weight/solution.js)                               |
 | 829  | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)                                                               | algorithms | 196 ms  | 44.4 MB  | [javascript](solutions/829.subdomain-visit-count/solution.js)                                 |
 | 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)                                                     | algorithms | 240 ms  | 52.1 MB  | [javascript](solutions/345.reverse-vowels-of-a-string/solution.js)                            |
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                             | algorithms | 136 ms  | 45.8 MB  | [javascript](solutions/344.reverse-string/solution.js)                                        |
