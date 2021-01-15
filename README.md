@@ -3,10 +3,18 @@
 <!--__GENERATED_START__-->
 
 
-Solved: 92 problems
+Solved: 100 problems
 
 | #    | problem                                                                                                                                     | category   | runtime | memory   | solutions                                                                                     |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------- | -------- | --------------------------------------------------------------------------------------------- |
+| 1656 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)                                                                   | algorithms | 88 ms   | 38.6 MB  | [javascript](solutions/1656.count-good-triplets/solution.js)                                  |
+| 1693 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)                                           | algorithms | 80 ms   | 38.4 MB  | [javascript](solutions/1693.sum-of-all-odd-length-subarrays/solution.js)                      |
+| 1254 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)                                                                     | algorithms | 120 ms  | 49.3 MB  | [javascript](solutions/1254.deepest-leaves-sum/solution.js)                                   |
+| 1241 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)                                     | algorithms | 108 ms  | 42.3 MB  | [javascript](solutions/1241.decompress-run-length-encoded-list/solution.js)                   |
+| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                               | algorithms | 1972 ms | 44.7 MB  | [javascript](solutions/242.valid-anagram/solution.js)                                         |
+| 1651 | [Shuffle String](https://leetcode.com/problems/shuffle-string/)                                                                             | algorithms | 108 ms  | 44.1 MB  | [javascript](solutions/1651.shuffle-string/solution.js)                                       |
+| 1839 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)                                                                     | algorithms | 120 ms  | 45.4 MB  | [javascript](solutions/1839.decode-xored-array/solution.js)                                   |
+| 1572 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)                                                                 | algorithms | 108 ms  | 45.3 MB  | [javascript](solutions/1572.subrectangle-queries/solution.js)                                 |
 | 1580 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                                                       | algorithms | 88 ms   | 40.6 MB  | [javascript](solutions/1580.shuffle-the-array/solution.js)                                    |
 | 1510 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)                                             | algorithms | 80 ms   | 40 MB    | [javascript](solutions/1510.find-lucky-integer-in-an-array/solution.js)                       |
 | 1217 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)                                                                   | algorithms | 84 ms   | 38.8 MB  | [javascript](solutions/1217.relative-sort-array/solution.js)                                  |
