@@ -3,10 +3,14 @@
 <!--__GENERATED_START__-->
 
 
-Solved: 100 problems
+Solved: 104 problems
 
 | #    | problem                                                                                                                                     | category   | runtime | memory   | solutions                                                                                     |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------- | -------- | --------------------------------------------------------------------------------------------- |
+| 813  | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)                                           | algorithms | 104 ms  | 45.3 MB  | [javascript](solutions/813.all-paths-from-source-to-target/solution.js)                       |
+| 657  | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)                                                             | algorithms | 80 ms   | 39.6 MB  | [javascript](solutions/657.robot-return-to-origin/solution.js)                                |
+| 1823 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)                                 | algorithms | 88 ms   | 39.2 MB  | [javascript](solutions/1823.determine-if-string-halves-are-alike/solution.js)                 |
+| 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                             | algorithms | 264 ms  | 47 MB    | [javascript](solutions/49.group-anagrams/solution.js)                                         |
 | 1656 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)                                                                   | algorithms | 88 ms   | 38.6 MB  | [javascript](solutions/1656.count-good-triplets/solution.js)                                  |
 | 1693 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)                                           | algorithms | 80 ms   | 38.4 MB  | [javascript](solutions/1693.sum-of-all-odd-length-subarrays/solution.js)                      |
 | 1254 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)                                                                     | algorithms | 120 ms  | 49.3 MB  | [javascript](solutions/1254.deepest-leaves-sum/solution.js)                                   |
